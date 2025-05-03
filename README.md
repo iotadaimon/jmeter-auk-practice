@@ -29,7 +29,7 @@
 
 #### Grafana dashboard
 
-![Grafana dashboard](media/demo.webm)
+[demo.webm](https://github.com/user-attachments/assets/96929d74-5b4e-4818-84f5-00571c84db7a)
 
 #### JMeter
 
